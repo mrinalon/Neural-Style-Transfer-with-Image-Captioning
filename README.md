@@ -70,4 +70,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-Feel free to adapt and expand this README.md as necessary for your specific project needs.
