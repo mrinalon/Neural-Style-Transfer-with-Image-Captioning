@@ -34,18 +34,6 @@ Install the required libraries using the following command:
 pip install -r requirements.txt
 ```
 
-`requirements.txt`:
-```
-tensorflow
-tensorflow_hub
-matplotlib
-numpy
-opencv-python
-transformers
-torch
-Pillow
-```
-
 ## Project Structure
 
 ```
