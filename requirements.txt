@@ -1,0 +1,8 @@
+tensorflow
+tensorflow_hub
+matplotlib
+numpy
+opencv-python
+transformers
+torch
+Pillow
