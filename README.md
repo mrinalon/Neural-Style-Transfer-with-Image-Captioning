@@ -66,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/neural-style-transfer-captioning/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mrinalon/Neural-Style-Transfer-with-Image-Captioning/issues) if you want to contribute.
 
 ---
 
